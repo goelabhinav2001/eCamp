@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://res.cloudinary.com/dd5a8yar0/image/upload/v1629107340/tent-5441144_1920_oj7ors.jpg");
+    background-size: cover !important;
+    background-position: center !important;
+    text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navi{
+    margin-right: 1.5em;
+}
+
+.navi.active {
+  
+    border-bottom: 2px solid white;
+
+}
+
+.nav-link:hover{
+    font-weight: 450;
+    border-bottom: 2px solid white;
+}
+
+.homeButton{
+    padding: 0.5em;
+    font-weight: 500;
+    text-shadow: none;
+}
+
+
