@@ -3,9 +3,7 @@
 </p>
 
 <h3 align="center">eCamp</h3>
-<p align = "center">A Node.js web application project from the Udemy course - The Web Developer Bootcamp by Colt Steele
-<p align="center">Visit <a href="https://secure-everglades-95465.herokuapp.com">eCamp</a></p>
-
+<p align = "center">A Node.js web application project
 </p>
 
 ---
@@ -44,7 +42,7 @@
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/SuketB/eCamp.git
+git clone [https://github.com/goelabhinav2001/eCamp]
 ```
 
 ### Install dependencies
@@ -88,4 +86,4 @@ yarn install
 
 ---
 
-<h4 align="center">Made with ❤️ By Suket Bhola</h4> 
+
