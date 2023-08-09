@@ -42,7 +42,7 @@
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/SuketB/eCamp.git
+git clone [https://github.com/SuketB/eCamp.git](https://github.com/goelabhinav2001/eCamp)
 ```
 
 ### Install dependencies
